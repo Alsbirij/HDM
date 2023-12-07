@@ -11,3 +11,8 @@ The final step involves a Python script named 'Comparator'.
 This script will read both text files, compare the results for each image, and store the comparisons in a text file.
 This file will list the name of each image along with a flag indicating a match or mismatch. 
 A match occurs when the number of persons predicted by the model equals the number in the original label.
+
+
+The interface.py implements a GUI using Tkinter to control different filters
+
+
