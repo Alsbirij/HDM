@@ -83,7 +83,7 @@ def Video_Function():
     cap.release()
     cv2.destroyAllWindows()
 
-Video_Function()
+#Video_Function()
 
 
 

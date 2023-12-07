@@ -31,4 +31,4 @@ def sharpen_image(image_path):
     cv2.destroyAllWindows()
 
 # Call the function with the image path
-sharpen_image('0b9aec984321bf53.jpg')
+#sharpen_image('0b9aec984321bf53.jpg')

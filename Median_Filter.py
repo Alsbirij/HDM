@@ -18,4 +18,4 @@ def MedianFilter(image_path):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-MedianFilter('0b9aec984321bf53.jpg')  
+#MedianFilter('0b9aec984321bf53.jpg')  

@@ -20,4 +20,4 @@ def apply_dummy_filter(image_path):
     cv2.destroyAllWindows()
 
 # Call the function with the image path
-apply_dummy_filter('0b9aec984321bf53.jpg')   
+#apply_dummy_filter('0b9aec984321bf53.jpg')   

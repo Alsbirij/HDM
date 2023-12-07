@@ -17,4 +17,4 @@ def Threshold(image_path):
 
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-Threshold('0b9aec984321bf53.jpg')    
+#Threshold('0b9aec984321bf53.jpg')    

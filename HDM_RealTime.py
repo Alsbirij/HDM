@@ -84,4 +84,4 @@ def Webcam_Detection_Function():
     cap.release()
     cv2.destroyAllWindows()
 
-Webcam_Detection_Function()
+#Webcam_Detection_Function()

@@ -18,4 +18,4 @@ def display_grayscale(image_path):
     cv2.destroyAllWindows()
 
 # Call the function with the image path
-display_grayscale('0b9aec984321bf53.jpg')
+#display_grayscale('0b9aec984321bf53.jpg')

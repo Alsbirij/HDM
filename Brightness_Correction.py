@@ -17,4 +17,4 @@ def BrightneesCorrection(image_path):
 
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-BrightneesCorrection('0b9aec984321bf53.jpg')    
+#BrightneesCorrection('0b9aec984321bf53.jpg')    
