@@ -14,5 +14,14 @@ A match occurs when the number of persons predicted by the model equals the numb
 
 
 The interface.py implements a GUI using Tkinter to control different filters
+1.Dummy_filter
+2.RGB_TO_Monochrome_Filter 
+3.sharpener_filter
+4.Brightness_Correction
+5.Threshold_Filter
+6.Median_Filter
+7.HDM_Video
+8. HDM_RealTime
+
 
 
