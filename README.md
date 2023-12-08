@@ -23,5 +23,6 @@ The interface.py implements a GUI using Tkinter to control different filters
 7.HDM_Video
 8. HDM_RealTime
 
-
+When we run Control_Via_IPNetwork.py on a local machine, we can utilize a client script named client_to_talk_to_control_via_ipnetwork.py to control the system from another device.
+However, both devices must be on the same network for this to work
 
